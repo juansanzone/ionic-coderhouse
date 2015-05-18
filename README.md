@@ -317,8 +317,17 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 - Que es y para que sirve?
 - Ventajas y Desventajas
 
+### Ionic Material
+- Que es y para sirve?
+- Introcuccion a Material Design
+- Componentes Principales
+- Instalando y configurando Ionic Material
+
 ### Segunda aplicacion
 - Desarrollo de una APP dinamica utilizando una API externa.
+
+### Trabajo Practico
+- Rediseño de nuestra APP, utilizando Ionic Material
 
 ## Capitulo 7 - Ionic Experto
 
