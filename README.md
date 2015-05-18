@@ -270,8 +270,11 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
         - Scope
 
 ### Primera aplicacion
-- Desarrollo de una APP basada en Tabs
+- Desarrollo de una APP basica basada en Tabs
 - Publicacion y distribucion
+
+### Trabajo Practico
+- Desarrollo de un clone estatico de una app trending en el mercado.
 
 ## Capitulo 6 - Ionic Avanzado
 
