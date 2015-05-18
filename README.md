@@ -81,11 +81,11 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 	- Selección de datos
 	- Envío de datos
 - Objetos
-	- Imagenes
-		- Mapas
-		- Sprites
-	- Video
-	- Audio
+	- Tag Imagen
+	- Tag Video
+	- Tag Audio
+	- Mapas y Sprites 
+		- Que son y para que se utilizan?
 
 #### Comentarios HTML
 - Para qué sirven ?
@@ -152,7 +152,7 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 
 ### Web server
 - Que es?
-- Que funcion cumple?
+- Que funcion cumple en una APP Hibrida?
 
 
 ## Capitulo 3 - Frameworks
@@ -167,7 +167,7 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 #### UI Frameworks
 - Que son ?
 - Porque utilizarlos ?
-- ==**Ionic**==
+- **IONIC**
 - Appgyver
 - Famo.us
 - Onsen.io
@@ -193,7 +193,16 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 		- Ionic Analytics
 - Tecnologias
 	- Angular JS
+		- Que es y como se relaciona con Ionic?
+		- Breve Introduccion Teorica
+		- La importancia en el desarrollo Hibrido
 	- ng Cordova
+		- Que es y como se relaciona con Ionic?
+		- Plugins mas comunes
+			- Camara
+			- Oauth
+			- Geolocalizacion
+			- Touch ID
 
 - Componentes principales
 	- CLI 
@@ -250,11 +259,13 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
     - Utilizando los componentes UI
     - Directivas
         - Que son y para que sirven?
-        - Directiva ng-model
+        - Repaso general sobre directivas mas comunes
+        - Directiva ng-model, ng-click
 - Controladores
     - Que son y para que sirven?
+    - Funciones VS Metodos
     - Controlador Basico
-        - Funciones publicas y privadas
+        - Contexto publico y privado
         - Variables
         - Scope
 
@@ -307,25 +318,32 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 - Ventajas y Desventajas
 
 ### Segunda aplicacion
-- Desarrollo de una APP dinamica orientada a Servicios
+- Desarrollo de una APP dinamica utilizando una API externa.
 
 ## Capitulo 7 - Ionic Experto
 
 ### Push Notifications
 
+- Introduccion a Notificaciones Push
+	- Que son y para se utilizan?
+	- Deeplinks
+	- Notificaciones Interactivas
+	- Notificaciones Silenciosas
 - Ionic Push
 - Configuracion Inicial
 - Instalacion Android
 - Instalacion iOS
 - WebHook
-	- Que es?
-	- Para que sirve?
+	- Que es y para que sirve?
 	- Configurando el WebHook 
 - Envio de Push
 - Testing de Push
 
 ### Deploy
 
+- Introduccion a Deploy
+	- Que es y para que se utiliza?
+	- Ventajas
 - Ionic Deploy
 - Instalacion
 - Actualizando Apps
@@ -333,6 +351,8 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 
 ### Analytics
 
+- Introduccion a Analytics 
+- La importancia de Metricas en un Proyecto
 - Ionic Analytics
 - Instalacion
 - Trackeo de Eventos
@@ -341,4 +361,4 @@ Programa Desarrollo Mobile Hibrido para Coderhouse
 
 
 ### Tercera aplicacion
-- Desarrollo de una APP con soporte de Notificaciones Push y trackeo de eventos.
+- Desarrollo de una APP con soporte de Notificaciones Push, trackeo de eventos, analytics y deploy automatico de nuevas funcionalidades.
